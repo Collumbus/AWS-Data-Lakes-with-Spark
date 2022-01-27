@@ -57,8 +57,6 @@ ELT pipeline builder
 
 ## Database Schema
 
-![Fig.1](img/Song_ERD.png)
-
 ### Fact table
 
 #### songplays table
